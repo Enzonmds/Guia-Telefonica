@@ -4,6 +4,7 @@
 Desarrollar una aplicación web que permita crear, modificar, visualizar y eliminar los datos de cada usuario del EA | Ingreso por AD.
 
 **Datos a trabajar:**
+
     • Apellido y nombre
     • Arma/especialidad
     • Grado
