@@ -1,10 +1,10 @@
 ﻿# Guia-Telefonica
-Vista preliminar de la guía telefónica
+##Vista preliminar de la guía telefónica
 
 Desarrollar una aplicación web que permita crear, modificar, visualizar y eliminar los datos de cada usuario del EA | Ingreso por AD.
 
 
-	Datos a trabajar:
+	**Datos a trabajar:**
     • Apellido y nombre
     • Arma/especialidad
     • Grado
